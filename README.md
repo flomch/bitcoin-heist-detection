@@ -1,5 +1,5 @@
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/flomch/bitcoin-heist-detection/blob/main/bitcoin-heist-detection.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k7cx67jdkQmr3odcc-eHV6UwnDL2nPQd?usp=sharing)
 
 
 # Oh gosh! Is that a bitcoin heist?!
